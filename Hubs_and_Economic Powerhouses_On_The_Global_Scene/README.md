@@ -1,36 +1,23 @@
-*Instructions: Click on the raw button in the upper right hand corner of this box.  Copy and paste the template into the README.md document on your github.  Fill in the titles, information and links where prompted! Feel free to stray a bit to suit your project but try to stick to the format as closely as possible for consistency across DSWG projects.*
+# Hubs_and_Economic_Powerhouses_Around the World
 
-# Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
-
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Active]
 
 ## Project Intro/Objective
-It is an investigation on the factors breeding a certain economic activity like finance/banking or technology in cities around the world. It will serve as a basis to evaluate and speculate about the potential of cities in emerging economies in fostering such activities.
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
-
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+With the rise of globalization, countries, and more specifically cities/regions have been honing their competitive advantage by specializing in one or a couple of economic activities. In doing so, they built a noteworthy reputation giving them leverage in attracting both human and physical capital supporting and driving their growth. Some good examples are  New York in finance, Shenzhen in manufacturing, and San Francisco in Technology. In face of this division of labour across the global economy offers, there is an opportunity to investigate the historical background, the political environment, and the role of those hubs in the greater economic role in their respective countries. It is our hope to shed light on the factors and their relationships breeding certain economic activities to better evaluate burgeoning cities in emerging economies.
 
 ### Methods Used
+* Time Series
 * Inferential Statistics
-* Machine Learning
 * Data Visualization
+* Regression Analysis
+* Classification Modeling
 * Predictive Modeling
-* etc.
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* R
+* Tableau
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
@@ -64,18 +51,9 @@ The purpose of this project is ________. (Describe the main goals of the project
 * [Blog Post](link)
 
 
-## Contributing DSWG Members
+## Contributing Member
 
 **Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
 
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* Feel free to contact us with any questions or if you are interested in contributing aorsot1@babson.edu!
